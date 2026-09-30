@@ -2,8 +2,6 @@
 
 **Welcome to the OpenGridFM organization README**
 
-![OpenGridFM partners](gridfm-github-banner.png)
-
 🙋‍♀️ A short introduction - what is our organization all about?
 
 An open development framework for foundation models of the electric grid. An [LF Energy](https://lfenergy.org/projects/opengridfm/) project.
@@ -22,3 +20,7 @@ An open development framework for foundation models of the electric grid. An [LF
 
 - Open an issue or pull request on [gridfm-datakit](https://github.com/gridfm/gridfm-datakit) or [gridfm-graphkit](https://github.com/gridfm/gridfm-graphkit). Follow that repository’s `CONTRIBUTING.md`.
 - TSC meetings: to be added.
+
+People from these organizations use OpenGridFM:
+
+![OpenGridFM partners](gridfm-github-banner.png)
