@@ -7,11 +7,6 @@ People from these organizations use OpenGridFM
 
 ![OpenGridFM partners](gridfm-github-banner.png)
 
-## 📄 Paper
-
-- [Paper (GENCO)](https://arxiv.org/abs/2608.09921) · [repro](https://github.com/gridfm/gridfm-paper-genco) <img src="genco-logo.png" alt="" height="24" align="absmiddle">
-- [Report (datakit)](https://arxiv.org/abs/2512.14658) · [repro](https://github.com/gridfm/gridfm-paper-datakit-report) <img src="datakit-logo.png" alt="" height="24" align="absmiddle">
-
 ## 📚 Resources
 
 - [Project page](https://lfenergy.org/projects/opengridfm/)
@@ -21,6 +16,11 @@ People from these organizations use OpenGridFM
 - [Tutorial: train GENCO for AC optimal power flow](https://github.com/gridfm/gridfm-tutorials) 💻
 - [Datasets and models](https://huggingface.co/gridfm) <img src="huggingface-logo.png" alt="" height="24" align="absmiddle">
 - [License: Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+## 📄 Paper
+
+- [Paper (GENCO)](https://arxiv.org/abs/2608.09921) · [repro](https://github.com/gridfm/gridfm-paper-genco) <img src="genco-logo.png" alt="" height="24" align="absmiddle">
+- [Report (datakit)](https://arxiv.org/abs/2512.14658) · [repro](https://github.com/gridfm/gridfm-paper-datakit-report) <img src="datakit-logo.png" alt="" height="24" align="absmiddle">
 
 ## 🛠️ Contributing
 
