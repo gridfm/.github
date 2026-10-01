@@ -15,6 +15,11 @@ People from these organizations use OpenGridFM
 - [Training and inference: gridfm-graphkit](https://github.com/gridfm/gridfm-graphkit) · [docs](https://gridfm.github.io/gridfm-graphkit/) <img src="graphkit-logo.png" alt="" height="24" align="absmiddle">
 - [Tutorial: train GENCO for AC optimal power flow](https://github.com/gridfm/gridfm-tutorials) 💻
 - [Datasets and models](https://huggingface.co/gridfm) <img src="huggingface-logo.png" alt="" height="24" align="absmiddle">
+  - [GENCO checkpoints](https://huggingface.co/collections/gridfm/genco-6ab6794888cbe1b217a5c91a)
+  - [datakit PF datasets](https://huggingface.co/collections/gridfm/datakit-pf-datasets-697882b6276f4f9b10933bdc)
+  - [datakit OPF datasets](https://huggingface.co/collections/gridfm/datakit-opf-datasets-694517674cbe4ccc7eaac41e)
+  - [PFΔ datasets](https://huggingface.co/collections/gridfm/pfdelta-datasets-698c7691b844791564e932a4)
+  - [OPFData datasets](https://huggingface.co/collections/gridfm/opfdata-datasets-69e9fcd4a34365b05ab2a6e2)
 - [License: Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## 📄 Paper
