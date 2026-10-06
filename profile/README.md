@@ -31,4 +31,6 @@ People from these organizations use OpenGridFM
 
 Open an issue or pull request on [gridfm-datakit](https://github.com/gridfm/gridfm-datakit) or [gridfm-graphkit](https://github.com/gridfm/gridfm-graphkit). Follow that repository’s `CONTRIBUTING.md`.
 
-TSC meetings: to be added.
+TSC meetings: the next TSC meeting will be on Monday October 19th 2026 at 10AM Eastern time (Montreal)
+
+https://zoom-lfx.platform.linuxfoundation.org/meeting/91207227288?password=4c966c1b-aa68-42c3-aa23-112246382313
