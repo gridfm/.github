@@ -2,10 +2,11 @@
 
 An open development framework for foundation models of the electric grid. An [LF Energy](https://lfenergy.org/projects/opengridfm/) project.
 
-People from these organizations use OpenGridFM
-(if you are using OpenGridFM and would like to display your logo, please reach out to us!):
+People from these organizations use OpenGridFM.
 
 ![OpenGridFM partners](gridfm-github-banner.png)
+
+Logos are displayed in no particular order. If you use OpenGridFM and would like your organization to be included, please reach out!
 
 ## 📚 Resources
 
